@@ -40,7 +40,3 @@ This project helped me understand Arduino programming, sensor interfacing, digit
 ## 👩‍💻 Author
 **Sahithi Goud**
 B. Tech ECE Student
-
-[▶️ Open Tinkercad Simulation]
-(https://www.tinkercad.com/things/fhSLShsCiZt-car-parking-system-using-arduino/editel)
-
