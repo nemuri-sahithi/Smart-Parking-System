@@ -44,6 +44,3 @@ B. Tech ECE Student
 [▶️ Open Tinkercad Simulation]
 (https://www.tinkercad.com/things/fhSLShsCiZt-car-parking-system-using-arduino/editel)
 
-**Sahithi Goud**
-
-B.Tech ECE Student
